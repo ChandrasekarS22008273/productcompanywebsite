@@ -35,7 +35,12 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+
+
+
+
 ## Home code:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -87,7 +92,12 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+
+
+
+
 ## Product Code:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -204,7 +214,13 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+
+
+
+
+
 ## People Code:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -282,7 +298,13 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+
+
+
+
+
 ## Contact us Code:
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -328,9 +350,25 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 
-### Home Page:
+### Home page:
+![Product development](https://user-images.githubusercontent.com/119643845/215097776-bfde3d38-89d5-4473-b09a-6b4a7e99211b.png)
 
-![output](./images/homepage.jpg)
+
+
+### Products page:
+![Product development2](https://user-images.githubusercontent.com/119643845/215097994-289968c0-1322-4304-9605-597f6351d5da.png)
+
+
+
+### People page:
+![Product development3](https://user-images.githubusercontent.com/119643845/215098133-990404a5-f9c9-4e0a-8745-c7f48692dff0.png)
+
+
+
+### Contact us page:
+![Product development4](https://user-images.githubusercontent.com/119643845/215098246-319edf58-cff4-4901-9aa3-b1de2152c2ce.png)
+
+
 
 ## Result:
 
