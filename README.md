@@ -40,7 +40,7 @@ Publish the website in the given URL.
 
 
 ## Home code:
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -347,6 +347,8 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+``` 
+
 ## OUTPUT:
 
 
